@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shwetha E<br><br>🎓 I'm currently learning in Artificial Intelligence and Machine Learning (AIML).<br>🌱 I'm currently learning Python and AI/ML.<br><br>
+👋 Hi, I'm Shwetha E<br><br>🎓 I'm currently learning in Artificial Intelligence and Machine Learning (AIML).<br>🌱 I'm currently learning Python and ML.<br><br>
 
 
 ## 🌐 Socials:
